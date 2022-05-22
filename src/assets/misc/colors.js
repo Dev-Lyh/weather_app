@@ -1,0 +1,25 @@
+/* eslint-disable prettier/prettier */
+export default {
+  LIGHT: {
+    BACKGROUND: '#FFF',
+    TEXT: '#252525',
+    INFO_CONTAINER: '#EFEFEF',
+    TOP_COLOR: '#151515',
+    BOTTOM_COLOR: '#15151500',
+    STATUS_BAR: '#EFEFEF',
+    TITLE: '#FFA500',
+    COPYRIGHT_TOP: '#FFA500',
+    COPYRIGHT_BOTTOM: '#FFA50025',
+  },
+  DARK: {
+    BACKGROUND: '#151515',
+    TEXT: '#FFF',
+    INFO_CONTAINER: '#1B1B1B',
+    TOP_COLOR: '#FFFFFF',
+    BOTTOM_COLOR: '#FFFFFF00',
+    STATUS_BAR: '#252525',
+    TITLE: '#0BAEFF',
+    COPYRIGHT_TOP: '#0BAEFF',
+    COPYRIGHT_BOTTOM: '#0BAEFF25',
+  },
+};
